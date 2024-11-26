@@ -1,3 +1,3 @@
-a = 5
+c = 5
 b = 10
-print (a+b)
+print (c+b)
